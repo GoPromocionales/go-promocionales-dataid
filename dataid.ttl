@@ -6,9 +6,9 @@
 
 <https://databus.dbpedia.org/gopromocionales/gifting-2025/tecnicas-personalizacion/2025.05.24>
     a dataid:Version ;
-    dct:issued "2025-05-25"^^xsd:date ;
-    dct:title "Tecnicas de personalizacion – Go Promocionales"@es ;
-    dct:description "Contiene datos de tecnicas como serigrafia, sublimacion, bordado y otras aplicadas en productos promocionales para marketing B2B."@es ;
+    dct:issued "2025-05-24"^^xsd:date ;
+    dct:title """Tecnicas de personalizacion – Go Promocionales"""@es ;
+    dct:description """Contiene datos de tecnicas como serigrafia, sublimacion, bordado y otras aplicadas en productos promocionales para marketing B2B."""@es ;
     dcat:distribution <https://gopromocionales.github.io/go-promocionales-dataid/artifact.ttl> ;
     dct:creator <https://www.gopromocionales.cl> ;
     dcat:mediaType "text/turtle" ;
