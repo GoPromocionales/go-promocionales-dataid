@@ -1,0 +1,13 @@
+@prefix dataid: <http://dataid.dbpedia.org/ns/core#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<https://databus.dbpedia.org/gopromocionales/gifting-2025/2025.05.24/artifact/tecnicas-personalizacion>
+    a dataid:Artifact ;
+    dct:hasVersion "2025.05.24" ;
+    dcat:distribution <https://raw.githubusercontent.com/GoPromocionales/go-promocionales-data/main/tecnicas-personalizacion.csv> ;
+    dct:title "Técnicas de personalización en regalos promocionales – Go Promocionales"@es ;
+    dct:description "Dataset con las principales técnicas utilizadas para personalizar regalos promocionales en Chile: serigrafía, sublimación, bordado, DTF, láser, entre otros. Curado por Go Promocionales en 2025."@es ;
+    dct:creator <https://gopromocionales.cl> ;
+    dcat:mediaType "text/csv" ;
+    dcat:downloadURL <https://raw.githubusercontent.com/GoPromocionales/go-promocionales-data/main/tecnicas-personalizacion.csv> .
