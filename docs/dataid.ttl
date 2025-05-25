@@ -1,0 +1,19 @@
+@prefix dataid: <http://dataid.dbpedia.org/ns/core#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://databus.dbpedia.org/gopromocionales/gifting-2025/tecnicas-personalizacion/2025.05.24>
+    a dataid:Version ;
+    dct:issued "2025-05-24"^^xsd:date ;
+    dct:title "Tecnicas de personalizacion – Go Promocionales"@es ;
+    dct:description "Contiene datos de tecnicas como serigrafia, sublimacion, bordado y otras aplicadas en productos promocionales para marketing B2B."@es ;
+    dcat:distribution <https://gopromocionales.github.io/go-promocionales-dataid/artifact.ttl> ;
+    dct:creator <https://www.gopromocionales.cl> ;
+    dcat:mediaType "text/turtle" ;
+    dcat:downloadURL <https://gopromocionales.github.io/go-promocionales-dataid/artifact.ttl> ;
+    dataid:artifact <https://databus.dbpedia.org/gopromocionales/gifting-2025/tecnicas-personalizacion> ;
+    dataid:group <https://databus.dbpedia.org/gopromocionales/gifting-2025> ;
+    dataid:account <https://databus.dbpedia.org/gopromocionales#this> ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
